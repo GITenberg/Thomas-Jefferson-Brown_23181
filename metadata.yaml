@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1487
     wikipedia: http://en.wikipedia.org/wiki/James_Oliver_Curwood
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23181#Thomas-Jefferson-Brown
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
 identifiers:
